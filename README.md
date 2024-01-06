@@ -1,6 +1,6 @@
 # Calculator Mini Project
 
-This calculator mini project is part of my 60-day JavaScript learning journey as a beginner.
+This calculator mini project is part of my `60-day JavaScript learning journey` as a beginner.
 
 ## Description
 
@@ -37,7 +37,7 @@ This mini project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- This mini project is part of the 60-day JavaScript learning journey as a beginner.
+- This mini project is part of the `60-day JavaScript learning journey` as a beginner.
 - Special thanks to the mentors and resources that have helped me in this learning journey.
 
 ## Useful Links
