@@ -8,16 +8,16 @@ This mini project aims to create a simple calculator using HTML | CSS | JavaScri
 
 ## Features
 
-- Addition: Perform addition of two numbers.
-- Subtraction: Perform subtraction of two numbers.
-- Multiplication: Perform multiplication of two numbers.
-- Division: Perform division of two numbers.
+- Addition Perform addition of two numbers.
+- Subtraction Perform subtraction of two numbers.
+- Multiplication Perform multiplication of two numbers.
+- Division Perform division of two numbers.
 
 ## Getting Started
 
 To get started with this mini project, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/Wambaforestin/calculator-mini-project.git`
+1. Clone the repository `git clone https://github.com/Wambaforestin/calculator-mini-project.git`
 2. Open the `index.html` file in your web browser.
 3. Start using the calculator by entering numbers and selecting the desired operation.
 
